@@ -1,6 +1,6 @@
 Noisy Rusty Wasp
 
-medium
+Medium
 
 # Lack of Transaction ID Validation Allows Suspension and Restoration of Non-Existent Transactions
 

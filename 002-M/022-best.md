@@ -1,6 +1,6 @@
 Noisy Rusty Wasp
 
-medium
+Medium
 
 # Potential Loss of Fees Due to Missing Registered Fee Collector in `openPosition` Function
 

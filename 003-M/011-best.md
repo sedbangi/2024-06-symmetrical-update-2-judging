@@ -1,6 +1,6 @@
 Dancing Navy Condor
 
-medium
+Medium
 
 # Collateral can still be allocated to PartyA when the system is paused by exploiting the new internal transfer function
 

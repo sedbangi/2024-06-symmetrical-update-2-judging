@@ -1,6 +1,6 @@
 Dancing Navy Condor
 
-high
+High
 
 # Wrong precision when adding balance within the `restoreBridgeTransaction` function
 

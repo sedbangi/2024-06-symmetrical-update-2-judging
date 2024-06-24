@@ -1,6 +1,6 @@
 Dancing Navy Condor
 
-high
+High
 
 # PartyA's allocated balance could increase after `deferredLiquidatePartyA` is executed
 

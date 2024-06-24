@@ -1,6 +1,6 @@
 Dancing Navy Condor
 
-high
+High
 
 # Deferred Liquidation can get stuck at step one of the liquidation process if the nonce increment
 

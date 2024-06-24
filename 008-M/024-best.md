@@ -1,6 +1,6 @@
 Nice White Scorpion
 
-medium
+Medium
 
 # `AccountFacet.internalTransfer:81` Allows Bypassing Accounting Pause and Allocating Funds
 
