@@ -101,6 +101,10 @@ The protocol team fixed this issue in the following PRs/commits:
 https://github.com/SYMM-IO/protocol-core/pull/45
 
 
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
+
 # Issue H-2: Suspended bridge transactions cannot be restored 
 
 Source: https://github.com/sherlock-audit/2024-06-symmetrical-update-2-judging/issues/9 
@@ -167,6 +171,10 @@ Implement a setter function for the `invalidBridgedAmountsPool` variable.
 The protocol team fixed this issue in the following PRs/commits:
 https://github.com/SYMM-IO/protocol-core/pull/46
 
+
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
 
 # Issue M-1: PartyA's allocated balance could increase after `deferredLiquidatePartyA` is executed 
 
@@ -513,6 +521,10 @@ Escalations have been resolved successfully!
 Escalation status:
 - [xiaoming9090](https://github.com/sherlock-audit/2024-06-symmetrical-update-2-judging/issues/6/#issuecomment-2194931242): accepted
 
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
+
 # Issue M-2: Deferred Liquidation can get stuck at step one of the liquidation process if the nonce increment 
 
 Source: https://github.com/sherlock-audit/2024-06-symmetrical-update-2-judging/issues/8 
@@ -722,6 +734,10 @@ Escalations have been resolved successfully!
 Escalation status:
 - [xiaoming9090](https://github.com/sherlock-audit/2024-06-symmetrical-update-2-judging/issues/8/#issuecomment-2194928425): accepted
 
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
+
 # Issue M-3: Collateral can still be allocated to PartyA when the system is paused by exploiting the new internal transfer function 
 
 Source: https://github.com/sherlock-audit/2024-06-symmetrical-update-2-judging/issues/11 
@@ -811,4 +827,8 @@ Add the `whenNotAccountingPaused` modifier to the `internalTransfer` function.
 The protocol team fixed this issue in the following PRs/commits:
 https://github.com/SYMM-IO/protocol-core/pull/47
 
+
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
 
